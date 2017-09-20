@@ -8,8 +8,8 @@ Projecto que mostra como Ligar um Arduino a um Shield Ethernet ENC28J60, utiliza
  - - Shield Ethernet ENC28J60
 
 - Bibliotecas
-UIPEthernet https://github.com/UIPEthernet/UIPEthernet
-PubSubClient Incluido nas bibliotecas da Comunidade Arduino -> Go to Sketch->Include Library -> Manage Libraries -> Search by PubSubClient and install - https://www.youtube.com/watch?v=GMMH6qT8_f4
+- - UIPEthernet https://github.com/UIPEthernet/UIPEthernet
+- - PubSubClient Incluido nas bibliotecas da Comunidade Arduino -> Go to Sketch->Include Library -> Manage Libraries -> Search by PubSubClient and install - https://www.youtube.com/watch?v=GMMH6qT8_f4
 
 
 
