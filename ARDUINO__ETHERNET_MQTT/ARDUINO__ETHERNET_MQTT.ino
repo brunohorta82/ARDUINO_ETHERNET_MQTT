@@ -65,7 +65,10 @@ void turnOff(){
 }
 
 void setup() {
-  Serial.begin(9600);  
+  Serial.begin(9600);
+  
+  pinMode(LIGHT, OUTPUT);
+  
   uint8_t mac[6] = {0x00,0x01,0x02,0x03,0x04,0x05};
   Ethernet.begin(mac); //Configure IP address via DHCP
   Serial.println(Ethernet.localIP());
